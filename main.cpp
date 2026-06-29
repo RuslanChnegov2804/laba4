@@ -4,7 +4,7 @@
 int main() {
     Stack s;
 
-    std::cout << "=== Stack Demo ===" << std::endl;
+    std::cout << "Stack Demo" << std::endl;
 
     std::cout << "Empty? " << (s.empty() ? "yes" : "no") << std::endl;
 
